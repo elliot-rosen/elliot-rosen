@@ -20,8 +20,9 @@
 - React Native
 
 📚 Also interested in:
-- React / nodeJS / MongoDB / Heroku / GraphQL
+- React / nodeJS / REST / GraphQL
 - Solidity
 - Python
+- MongoDB / Heroku / GraphQL
 
 Passionate about rapid development, prototyping, and bringing concepts to life 🌱
