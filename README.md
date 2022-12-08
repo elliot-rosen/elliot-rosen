@@ -20,6 +20,7 @@
 - React Native
 
 📚 Also interested in:
+- Numerical modeling and computational simulation
 - React / nodeJS / REST / GraphQL
 - Solidity
 - Python
