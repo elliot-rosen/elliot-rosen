@@ -14,7 +14,7 @@
   </a>&nbsp;
 </p>
 
-#### 💻 Software engineer @shopify | 🛢 Former o&g reservoir engineer @bhp
+#### 💻 Software engineer @shopify (@elliot-rosen-shopify) | 🛢 Former o&g reservoir engineer @bhp
 
 🔮 Currently focused on building in:
 - Native iOS
