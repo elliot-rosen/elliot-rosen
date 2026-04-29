@@ -1,6 +1,6 @@
 ## Elliot Rosen 👨🏻‍
 
-#### 💻 Software engineer @abridgeai | Ex-@shopfy | 🛢 Former o&g reservoir engineer @bhp
+#### 💻 Software engineer @abridgeai | Ex-@shopify | 🛢 Former o&g reservoir engineer @bhp
 
 🔮 Currently focused on building in:
 - Native iOS
